@@ -1,6 +1,6 @@
 package ex_01_Java_Basic;
 
-public class Task11 {
+public class Task11_printf {
     public static void main(String[] args) {
         int a=9;
         System.out.printf("%d * 1 =%d%n",a,a*1);

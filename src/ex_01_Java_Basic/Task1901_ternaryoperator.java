@@ -1,6 +1,6 @@
 package ex_01_Java_Basic;
 
-public class Task19_01 {
+public class Task1901_ternaryoperator {
     public static void main(String[] args) {
         int n=82;
         String result= (n>=90 && n<=100) ? "A grade": (n>=80 && n<=89)? "B grade" :
