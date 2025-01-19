@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edaeee26-c5e0-4a49-a51c-e0ca5341055f" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task19/Task1902_ternaryoperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task19/Task1903_increment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task19/Task1904_decrement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task19/Task1905_cli01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task19/Task1906_cli02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_01_Java_Basic/Task1901_ternaryoperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task19/Task1901_ternaryoperator.java" afterDir="false" />
-    </list>
+    <list default="true" id="edaeee26-c5e0-4a49-a51c-e0ca5341055f" name="Changes" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +50,7 @@
     "Application.Task1904_decrement.executor": "Run",
     "Application.Task1905_cli01.executor": "Run",
     "Application.Task19_01.executor": "Run",
+    "Application.clip02.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -134,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737274166649</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit">
+      <option name="closed" value="true" />
+      <created>1737281598495</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737281598495</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
