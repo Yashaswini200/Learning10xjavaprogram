@@ -1,4 +1,4 @@
-package Task19;
+package Task1901;
 
 public class Task1902_ternaryoperator {
     public static void main(String[] args) {

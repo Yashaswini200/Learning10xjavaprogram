@@ -1,4 +1,4 @@
-package Task19;
+package Task1901;
 
 public class Task1904_decrement {
     public static void main(String[] args) {
