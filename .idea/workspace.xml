@@ -5,20 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edaeee26-c5e0-4a49-a51c-e0ca5341055f" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/Task2501/Task2501_if_else.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2501/Task2502_count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2601/Task2601_reverse_no.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2601/Task2602_leap_year.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2601/Task2603_fact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2601/Task2605_rev.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Try.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2801/Task2802_maxof3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2901/Task2901_char_vowel_not.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2901/Task2901_maxof2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2901/Task2901_oddeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2901/Task2901_pos_neg.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task19/Task1901_ternaryoperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1901/Task1901_ternaryoperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task19/Task1902_ternaryoperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1901/Task1902_ternaryoperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task19/Task1903_increment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1901/Task1903_increment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task19/Task1904_decrement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1901/Task1904_decrement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task19/Task1905_cli01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1901/Task1905_cli01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task19/Task1906_cli02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1901/Task1906_cli02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task2601/Task2605_rev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2601/Task2605_rev.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +66,11 @@
     "Application.Task2603_fact.executor": "Run",
     "Application.Task2604_fib.executor": "Run",
     "Application.Task2605_rev.executor": "Run",
+    "Application.Task2801_oddeven.executor": "Run",
+    "Application.Task2802_maxof3.executor": "Run",
+    "Application.Task2901_char_vowel_not.executor": "Run",
+    "Application.Task2901_maxof2.executor": "Run",
+    "Application.Task2901_pos_neg.executor": "Run",
     "Application.Try.executor": "Run",
     "Application.clip02.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -187,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737282088035</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commit">
+      <option name="closed" value="true" />
+      <created>1737991458862</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1737991458862</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

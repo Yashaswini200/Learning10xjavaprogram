@@ -13,7 +13,7 @@ public class Task2605_rev {
     static  void reverse(String s){
        for(int i=s.length()-1;i>=0;i--){
            String b= String.valueOf(s.charAt(i));
-           System.out.print("reverse string is "+b);
+           System.out.print(b);
        }
     }
 
