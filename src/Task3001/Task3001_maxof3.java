@@ -1,8 +1,8 @@
-package Task2801;
+package Task3001;
 
 import java.util.Scanner;
 
-public class Task2802_maxof3 {
+public class Task3001_maxof3 {
     public static void main(String[] args){
         Scanner a=new Scanner(System.in);
         int n1=a.nextInt();

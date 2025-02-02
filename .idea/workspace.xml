@@ -5,13 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edaeee26-c5e0-4a49-a51c-e0ca5341055f" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/Task2801/Task2802_maxof3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2901/Task2901_char_vowel_not.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2901/Task2901_maxof2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2901/Task2901_oddeven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2901/Task2901_pos_neg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3001/Task3002_minof2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3001/Task3003_minof3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3001/Task3004_leap_year.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3001/Task3005_Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3001/Task3006_char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3001/Task3007_prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3001/Task3008_bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3001/Task3009_triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3101/Task3003_Loan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3101/Task3101_palidrome_no.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3101/Task3102_armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3101/Task3103_bill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3101/Task3105_netsalary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3101/Task3106_travel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task2601/Task2605_rev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2601/Task2605_rev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task2801/Task2802_maxof3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task3001/Task3001_maxof3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,19 +80,33 @@
     "Application.Task2901_char_vowel_not.executor": "Run",
     "Application.Task2901_maxof2.executor": "Run",
     "Application.Task2901_pos_neg.executor": "Run",
+    "Application.Task3003_Loan.executor": "Run",
+    "Application.Task3004_leap_year.executor": "Run",
+    "Application.Task3009_triangle.executor": "Run",
+    "Application.Task3101_palidrome_no.executor": "Run",
+    "Application.Task3102_armstrong.executor": "Run",
+    "Application.Task3103_bill.executor": "Run",
+    "Application.Task3104.executor": "Run",
+    "Application.Task3105_netsalary.executor": "Run",
+    "Application.Task3106_travel.executor": "Run",
     "Application.Try.executor": "Run",
     "Application.clip02.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/babus/IdeaProjects/Learning10xjavaprogram/src/Task19",
+    "last_opened_file_path": "C:/Users/babus/IdeaProjects/Learning10xjavaprogram/src/Task3001",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\babus\IdeaProjects\Learning10xjavaprogram\src\Task3001" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Task1905_cli01" type="Application" factoryName="Application" folderName="New Folder">
       <option name="MAIN_CLASS_NAME" value="Task1901.Task1905_cli01" />
@@ -193,7 +216,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737991458862</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit">
+      <option name="closed" value="true" />
+      <created>1738249387372</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1738249387372</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
