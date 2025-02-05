@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edaeee26-c5e0-4a49-a51c-e0ca5341055f" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/Task3001/Task3002_minof2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3001/Task3003_minof3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3001/Task3004_leap_year.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3001/Task3005_Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3001/Task3006_char.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3001/Task3007_prime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3001/Task3008_bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3001/Task3009_triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3101/Task3003_Loan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3101/Task3101_palidrome_no.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3101/Task3102_armstrong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3101/Task3103_bill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3101/Task3105_netsalary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3101/Task3106_travel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task0102/Task0101_div511.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task0102/Task0102_conyear.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task2801/Task2802_maxof3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task3001/Task3001_maxof3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +48,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Lab01_HelloWorldProgram.executor": "Run",
+    "Application.Task0101_div511.executor": "Run",
+    "Application.Task0102_conyear.executor": "Run",
+    "Application.Task0103_website.executor": "Run",
+    "Application.Task0104_agelogic.executor": "Run",
     "Application.Task11.executor": "Run",
     "Application.Task1902_ternaryoperator.executor": "Run",
     "Application.Task1903_increment.executor": "Run",
@@ -224,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738249387372</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="commit">
+      <option name="closed" value="true" />
+      <created>1738487883885</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1738487883885</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
