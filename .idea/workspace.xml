@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edaeee26-c5e0-4a49-a51c-e0ca5341055f" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/Task0702/forloop/Task0701_10to1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task0702/forloop/Task0701_rightriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task0702/forloop/Task0702_invertedrightri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task0702/forloop/Task0702_sum100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task0702/forloop/Task0703_invertedpyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task0702/forloop/Task0703_multuser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task0702/forloop/Task0703_pyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task0702/forloop/Task0704_fact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task0702/whileloop/Task0701_10to1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/ex_01_classandobj/Lab_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/ex_01_classandobj/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1302/Task1301_duplicates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Lab01_HelloWorldProgram.executor": "Run",
+    "Application.Lab_01.executor": "Run",
     "Application.Task0101_div511.executor": "Run",
     "Application.Task0102_conyear.executor": "Run",
     "Application.Task0103_website.executor": "Run",
@@ -70,6 +65,7 @@
     "Application.Task0703_invertedpyramid.executor": "Run",
     "Application.Task0703_pyramid.executor": "Run",
     "Application.Task11.executor": "Run",
+    "Application.Task1301_duplicates.executor": "Run",
     "Application.Task1902_ternaryoperator.executor": "Run",
     "Application.Task1903_increment.executor": "Run",
     "Application.Task1904_decrement.executor": "Run",
@@ -103,7 +99,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/babus/IdeaProjects/Learning10xjavaprogram/src/Task0702/whileloop",
+    "last_opened_file_path": "C:/Users/babus/Downloads/LearningATB10xJavaPrograms-main",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -119,7 +115,7 @@
       <recent name="C:\Users\babus\IdeaProjects\Learning10xjavaprogram\src\Task3001" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task1905_cli01">
+  <component name="RunManager">
     <configuration name="Task1905_cli01" type="Application" factoryName="Application" folderName="New Folder">
       <option name="MAIN_CLASS_NAME" value="Task1901.Task1905_cli01" />
       <module name="Learning10xjavaprogram" />
@@ -276,8 +272,27 @@
       <option name="project" value="LOCAL" />
       <updated>1739292733858</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="commit">
+      <option name="closed" value="true" />
+      <created>1739292978064</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1739292978064</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="a" />
