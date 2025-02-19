@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edaeee26-c5e0-4a49-a51c-e0ca5341055f" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/Oops/ex_01_classandobj/Lab_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/ex_01_classandobj/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1302/Task1301_duplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/ex_02_constructor/Car_default.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/ex_02_constructor/Car_parmeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/ex_02_constructor/Lab_cardefault_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/ex_02_constructor/Lab_carparmeter_03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +51,8 @@
   "keyToString": {
     "Application.Lab01_HelloWorldProgram.executor": "Run",
     "Application.Lab_01.executor": "Run",
+    "Application.Lab_car_02.executor": "Run",
+    "Application.Lab_carparmeter_03.executor": "Run",
     "Application.Task0101_div511.executor": "Run",
     "Application.Task0102_conyear.executor": "Run",
     "Application.Task0103_website.executor": "Run",
@@ -280,7 +283,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739292978064</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="commit">
+      <option name="closed" value="true" />
+      <created>1739897454613</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1739897454613</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
