@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edaeee26-c5e0-4a49-a51c-e0ca5341055f" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/Oops/ex_03_inhertance/Multilevel/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/ex_03_inhertance/Multilevel/GrandFather.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/ex_03_inhertance/Multilevel/Lab_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/ex_03_inhertance/Multilevel/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/ex_03_inhertance/Multiple/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/ex_03_inhertance/Multiple/Lab_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/ex_03_inhertance/Multiple/Mother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/ex_03_inhertance/Multiple/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/ex_03_inhertance/hierarchical/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/ex_03_inhertance/hierarchical/Lab_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/ex_03_inhertance/hierarchical/Son1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/ex_03_inhertance/hierarchical/Son2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/ex_03_inhertance/hierarchical/Son3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +47,9 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2rUEcT1RnPvmawpa8ZoQkdi0wYZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,6 +60,8 @@
     "Application.Lab_01.executor": "Run",
     "Application.Lab_04.executor": "Run",
     "Application.Lab_05.executor": "Run",
+    "Application.Lab_06.executor": "Run",
+    "Application.Lab_07.executor": "Run",
     "Application.Lab_car_02.executor": "Run",
     "Application.Lab_carparmeter_03.executor": "Run",
     "Application.Task0101_div511.executor": "Run",
@@ -308,7 +318,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739976065110</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="commit">
+      <option name="closed" value="true" />
+      <created>1739976573972</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1739976573972</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
