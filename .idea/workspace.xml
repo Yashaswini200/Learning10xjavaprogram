@@ -5,16 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edaeee26-c5e0-4a49-a51c-e0ca5341055f" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/Oops/ex_03_inhertance/Multiple/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/ex_03_inhertance/Multiple/Lab_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/ex_03_inhertance/Multiple/Mother.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/ex_03_inhertance/Multiple/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/ex_03_inhertance/hierarchical/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/ex_03_inhertance/hierarchical/Lab_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/ex_03_inhertance/hierarchical/Son1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/ex_03_inhertance/hierarchical/Son2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/ex_03_inhertance/hierarchical/Son3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/AccessSpecfier/Police/Police_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/AccessSpecfier/Police/Police_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/AccessSpecfier/Theif/Theif_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/ex04_encapsulation/Icicbank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/ex04_encapsulation/Lab_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/ex_04_poly/Overloading/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/ex_04_poly/Overloading/Lab_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/ex_04_poly/Overriding/Commontoall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/ex_04_poly/Overriding/Lab_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/ex_04_poly/Overriding/Test_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/ex_04_poly/Overriding/test_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/ex_05_super/Commtoall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/ex_05_super/Lab_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/ex_05_super/Test_01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops/ex_03_inhertance/Multilevel/Lab_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops/ex_03_inhertance/Multilevel/Lab_05.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +68,13 @@
     "Application.Lab_05.executor": "Run",
     "Application.Lab_06.executor": "Run",
     "Application.Lab_07.executor": "Run",
+    "Application.Lab_08.executor": "Run",
+    "Application.Lab_09.executor": "Run",
+    "Application.Lab_10.executor": "Run",
+    "Application.Lab_11.executor": "Run",
     "Application.Lab_car_02.executor": "Run",
     "Application.Lab_carparmeter_03.executor": "Run",
+    "Application.Police_02.executor": "Run",
     "Application.Task0101_div511.executor": "Run",
     "Application.Task0102_conyear.executor": "Run",
     "Application.Task0103_website.executor": "Run",
@@ -326,7 +337,31 @@
       <option name="project" value="LOCAL" />
       <updated>1739976573972</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="commit">
+      <option name="closed" value="true" />
+      <created>1739978469611</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1739978469611</updated>
+    </task>
+    <task id="LOCAL-00021" summary="commit">
+      <option name="closed" value="true" />
+      <created>1739978503429</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1739978503429</updated>
+    </task>
+    <task id="LOCAL-00022" summary="commit">
+      <option name="closed" value="true" />
+      <created>1739978519729</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1739978519729</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -19,5 +19,10 @@ public class Lab_05 {
         mohan.plot();
 
 
+//        Son ramesh=new GrandFather(); can't be done
+//        Son ramesh=new Father(); can't be done
+//        GrandFather ramesh=new Father(); can be don
+
+
     }
 }
