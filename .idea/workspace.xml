@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="edaeee26-c5e0-4a49-a51c-e0ca5341055f" name="Changes" comment="commit">
       <change afterPath="$PROJECT_DIR$/src/Oops/ex_06_Abstraction/Abstract/Wragon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/ex_08_enum/enum_01/Week.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops/ex_08_enum/enum_02/Lab_15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -403,7 +400,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740588103711</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="commit">
+      <option name="closed" value="true" />
+      <created>1740674232188</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1740674232188</updated>
+    </task>
+    <task id="LOCAL-00030" summary="commit">
+      <option name="closed" value="true" />
+      <created>1740674461818</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1740674461818</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
