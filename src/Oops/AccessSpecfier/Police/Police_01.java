@@ -9,5 +9,5 @@ public class Police_01 {
     protected void canishot(){
         System.out.println("yes u can");
     }
-
+//
 }
